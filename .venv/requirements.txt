@@ -1,1 +1,4 @@
 pip install "fastapi[standard]"
+pip install "passlib[bcrypt]"
+pip install pyjwt
+pip install python-dotenv
